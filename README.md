@@ -1,6 +1,6 @@
-<img src="assets/header.gif" width="100%" alt="Duc Quang (Cillian) Nguyen, AI engineer in Sydney. 2.5M investor questions answered by DolphinAI as of February 2026. 375× concurrency scale-up. 75% higher broker productivity with CRM AI.">
+<img src="assets/header.gif" width="100%" alt="Duc Quang (Cillian) Nguyen, AI engineer in Sydney. 2.5M questions answered by DolphinAI as of February 2026. 375× concurrency scale-up. 75% higher broker productivity with CRM AI.">
 
-**AI engineer in Sydney. I built the AI behind DolphinAI at MB Securities.**
+**AI engineer in Sydney with 3 years of experience.** At MB Securities I built DolphinAI and integrated AI into the MBS CRM. Now studying a Master of Computer Science at the University of Sydney.
 
 [**Portfolio**](https://quangcodecode.github.io) · [LinkedIn](https://www.linkedin.com/in/duc-quang-ng) · [Email](mailto:dquangforwork@gmail.com) · [+61 422 475 168](tel:+61422475168) · [Résumé](https://quangcodecode.github.io/assets/Duc_Quang_Nguyen_Resume.pdf)
 
@@ -10,7 +10,7 @@
 
 <img src="assets/dolphinai-screens.jpg" width="100%" alt="DolphinAI in the MBS mobile app and beside the live price board on the web platform.">
 
-**2.5M** questions · **50k** users a month · **375×** scale-up · **8×** cheaper · **<15 s** for 99.999% · **Sao Khue 2025**
+**2.5M** questions · **50k** users per month · **375×** scale-up · **8×** cheaper · **<15 s** for 99.999% · **Sao Khue 2025**
 
 ### CRM AI &nbsp;·&nbsp; [how it's built →](https://github.com/QuangCodecode/crm-ai-platform-case-study)
 
